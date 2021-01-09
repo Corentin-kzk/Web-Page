@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+ overflow-x : hidden;
+ width: 100%;
+}
+.gray {
+  color: grey;
+}
+
+.sized {
+  font-size: 25px;
+}
+
+.white{
+  color: white;
+}
+.bg_wood {
+  background-image: url("../images/bg-content.jpg");
+}
+
+.bg_black {
+  background-color: black;
+}
+
+.red {
+  border: red 2px solid;
+}
+.center {
+  display: block;
+  margin : auto;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.bg-light {
+  background-color: white!important;
+}
+
+.btn-primary {
+  background-color: red;
+  border-color: red;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.card-body {
+  background-color: black;
+}
+
+.card {
+  border-color: black;
+}
+

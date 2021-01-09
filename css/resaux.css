@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(../images/sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-soc-icon-1 {
+    width: 30px;
+    height: 30px;
+    background-position: -13px -13px;
+}
+
+.sprite-soc-icon-2 {
+    width: 30px;
+    height: 30px;
+    background-position: -69px -13px;
+}
+
+.sprite-soc-icon-3 {
+    width: 30px;
+    height: 30px;
+    background-position: -125px -13px;
+}
+
+.sprite-soc-icon-4 {
+    width: 30px;
+    height: 30px;
+    background-position: -181px -13px;
+}
+
+.sprite-soc-icon-5 {
+    width: 30px;
+    height: 30px;
+    background-position: -237px -13px;
+}
+
+.sprite-soc-icon-1:hover,.sprite-soc-icon-2:hover,
+.sprite-soc-icon-3:hover,.sprite-soc-icon-4:hover,
+.sprite-soc-icon-5:hover{
+    background-position-y: -43px;
+}
